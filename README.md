@@ -34,3 +34,5 @@ Included in assets/lib folder:
 - [JQuery](https://jquery.com/) 3.5.1
 - [Bootstrap Icons](https://icons.getbootstrap.com/) 1.1.0
 - [lunr.js](https://lunrjs.com/) 2.3.9
+
+- example conflict merge
